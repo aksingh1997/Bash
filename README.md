@@ -1,7 +1,7 @@
 # Bash
 
 ### Array operations
-> *arr=()	Create an empty array
+* arr=()	Create an empty array
 * arr=(1 2 3)	Initialize array
 * ${arr[2]}	Retrieve third element
 * ${arr[@]}	Retrieve all elements
