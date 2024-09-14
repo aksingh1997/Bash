@@ -26,7 +26,7 @@ sign 5
 sign -3
 sign 0
 
-#taking input from linux
+#taking input from command line
 echo first input from console $1
 echo second input from console $2
 
